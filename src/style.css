@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.even {
+  background-color: black;
+  color: white;
+}
+
+.odd {
+  background-color: lightblue;
+  color: black;
+}
