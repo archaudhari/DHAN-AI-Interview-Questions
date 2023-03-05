@@ -1,3 +1,5 @@
+// Here's an example code snippet to create 8 vertical divs in React with alternate black background color and unique colors for the
+
 import React from "react";
 import "./style.css";
 
